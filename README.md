@@ -1,4 +1,4 @@
-# CityScapes
+# CityScapes_GAN
 
 This Notebook is merely a practice type-in from Kaggle:
 
